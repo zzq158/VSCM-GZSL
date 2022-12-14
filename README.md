@@ -29,6 +29,6 @@ python train.py # CUB
 
 We thank the following repos providing helpful components in our work.
 
- 	1. [TF-VAEGAN](https://github.com/akshitac8/tfvaegan)
- 	2. [SDGZSL](https://github.com/uqzhichen/SDGZSL)
+ 	1. [TF-VAEGAN]((https://github.com/akshitac8/tfvaegan))
+ 	2. [SDGZSL]((https://github.com/uqzhichen/SDGZSL))
 
