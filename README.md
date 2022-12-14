@@ -29,6 +29,6 @@ python train.py # CUB
 
 We thank the following repos providing helpful components in our work.
 
- 	1. [TF-VAEGAN]([akshitac8/tfvaegan: [ECCV 2020\] Official Pytorch implementation for "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification". SOTA results for ZSL and GZSL (github.com)](https://github.com/akshitac8/tfvaegan))
- 	2. [SDGZSL]([uqzhichen/SDGZSL: [ICCV2021\] Official Pytorch implementation for SDGZSL (Semantics Disentangling for Generalized Zero-Shot Learning) (github.com)](https://github.com/uqzhichen/SDGZSL))
+ 	1. [TF-VAEGAN](https://github.com/akshitac8/tfvaegan)
+ 	2. [SDGZSL](https://github.com/uqzhichen/SDGZSL)
 
