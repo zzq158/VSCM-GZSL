@@ -26,6 +26,16 @@ We trained the model on five popular ZSL benchmarks: AWA1, AWA2, CUB, FLO and SU
 ```python
 python train.py # CUB
 ```
+## Citation:
+@article{zhang2023visual,
+  title={Visual-semantic consistency matching network for generalized zero-shot learning},
+  author={Zhang, Zhenqi and Cao, Wenming},
+  journal={Neurocomputing},
+  volume={536},
+  pages={30--39},
+  year={2023},
+  publisher={Elsevier}
+}
 
 ## Ackowledgement
 
